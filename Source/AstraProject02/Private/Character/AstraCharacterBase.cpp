@@ -6,7 +6,7 @@
 
 AAstraCharacterBase::AAstraCharacterBase()
 {
-	PrimaryActorTick.bCanEverTick = true;
+	PrimaryActorTick.bCanEverTick = false;
 
 }
 

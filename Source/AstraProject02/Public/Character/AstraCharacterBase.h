@@ -6,7 +6,7 @@
 #include "GameFramework/Character.h"
 #include "AstraCharacterBase.generated.h"
 
-UCLASS()
+UCLASS(Abstract)
 class ASTRAPROJECT02_API AAstraCharacterBase : public ACharacter
 {
 	GENERATED_BODY()
